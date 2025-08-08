@@ -28,8 +28,10 @@ The background cycles through gradient-like colors every second while displaying
    ```bash
    git clone https://github.com/yourusername/fabulous-digital-clock.git
    cd fabulous-digital-clock
-2.Run the script   
-  python clock.py
+   
+2.Run the script  
+
+     python clock.py
 
 🛠 Requirements
 Python 3.x
